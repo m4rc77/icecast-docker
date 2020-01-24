@@ -1,4 +1,10 @@
 # icecast2-docker
+
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/m4rc77/icecast2-docker) 
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/m4rc77/icecast2-docker) 
+![Docker Pulls](https://img.shields.io/docker/pulls/m4rc77/icecast2-docker)
+![Docker Stars](https://img.shields.io/docker/stars/m4rc77/icecast2-docker)
+
 Dockerfile to run icecast2 server
 
 ## Hints
